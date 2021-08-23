@@ -1,0 +1,25 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body {
+padding: 25px;
+font-family: Arial, sans-serif;
+background-color: indigo;
+}
+h1 {
+padding:10px;
+margin: 15px;
+text-align: center;
+background-color: navy;
+color: white;
+}
+
+p {
+padding: 10px;
+margin: 20px;
+background: red;
+color: white;
+word-spacing: 15px;
+}
